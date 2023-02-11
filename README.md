@@ -24,6 +24,9 @@ Things you may want to cover:
 * ...
 
 ```bundle install```
+
 ```bundle exec vite install```
+
 ```npm i```
+
 ```rails s -b 0.0.0.0```
